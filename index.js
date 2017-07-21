@@ -146,5 +146,5 @@ var awesomeCard = function (dom, config) {
   }
 };
 
-module.exports = awesomeCard;
+//module.exports = awesomeCard;
 
