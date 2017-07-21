@@ -1,0 +1,15 @@
+{
+  "name": "awesome-card",
+  "version": "1.0.0",
+  "description": "Haaaaaaave you ever meet awesome card?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "awesome",
+    "card"
+  ],
+  "author": "zoolsher",
+  "license": "ISC"
+}
